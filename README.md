@@ -1,1 +1,1 @@
-# https://mongolia.github.io
+# http://mongolia.github.io
